@@ -6,3 +6,4 @@ name <- "cchiang111"
 system2("git", args = c("config", "--global", "user.email", email))
 system2("git", args = c("config", "--global", "user.name", name))
 
+file.edit("toke")
